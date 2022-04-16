@@ -1,6 +1,13 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-image: url("images/MB.jpg");
+  background-size: 100%;
+}
+
+footer {
+  color: #FFD700;
+  font-family: sans-serif;
+    font-size: 200%;
 }
 
 #level-title {
